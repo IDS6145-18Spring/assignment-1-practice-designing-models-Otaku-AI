@@ -16,8 +16,9 @@ Proposed solutions to urban planning mostly include city task forces which have 
 current situation instead of having to be statically planned in advance.
 
 ## Requirements (Experimental Design)
-Null Hypothesis: Sensors and intelligent agents have no ability to alleviate congestion and crowding on city streets
-Alternative Hypothesis: Sensors and intelligent agents can aleviate congestion and crowding on city streets
+Null Hypothesis: Sensors and intelligent agents have no ability to alleviate congestion and crowding on city streets.
+
+Alternative Hypothesis: Sensors and intelligent agents can aleviate congestion and crowding on city streets.
 
 I hypothesize that using a variety of sensors combined with methods taken from the study of multiagent systems can be used to help alleviate congestion. 
 Sensors used would include motion sensors to sense where people are gathered as well as camera systems that utilize optical flow to determine the rate of movement through an areas sidewalks. 
