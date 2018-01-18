@@ -32,17 +32,17 @@ This model describes three types of agents can be categorized: vehicle agents wh
 everything from food carts to street performers. Each of these agents acts differently but is informed by a communal IDID model. The IDID model will learn how to coordinate all 3 types of agents to provide the most efficient
 solution to congestion possibl. This would ideally use structure learning from simulation data and eventually real-world data but it would be seeded with an initial state that will be shown here. 
 
-[**Object Diagram**](object_diagram.md) - provides the high level overview of components.
+[**Object Diagram**](model/object_diagram.md) - provides the high level overview of components.
 
-[**Agent Class Diagram**](agent_diagram.md) - provides details of each type of agent.
+[**Agent Class Diagram**](model/agent_diagram.md) - provides details of each type of agent.
 
-[**Sensor Class Diagram**](sensor_diagram.md) - provides details of each type of sensor.
+[**Sensor Class Diagram**](model/sensor_diagram.md) - provides details of each type of sensor.
 
-[**PGM Diagram**](pgm_diagram.md) - provides details of the probabilistic graphical models.
+[**PGM Diagram**](model/pgm_diagram.md) - provides details of the probabilistic graphical models.
 
-[**Behavior Diagram**](behavior_diagram.md) - provides details of how each part of the system interactions with the bayesian inference systems.
+[**Behavior Diagram**](model/behavior_diagram.md) - provides details of how each part of the system interactions with the bayesian inference systems.
 
-[**Agent / User case** (if appropriate)](agent_usecase_diagram.md) - provides details of how each type of agent would use the system.
+[**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of how each type of agent would use the system.
 
 ## Smart City Street Congestion Simulation
 
@@ -50,7 +50,7 @@ solution to congestion possibl. This would ideally use structure learning from s
 
 
 ## Smart City Street Congestion Model
-[**Code template**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
+[**Code template**](code/streetcongestion/README.md)
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
