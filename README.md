@@ -9,7 +9,7 @@ A **smart city** is an urban area that uses different types of electronic data c
 ![Image of Smart City](images/smartcity.png)
 
 A major problem in many large cities is planning how to place streets to allow traffic to move efficiently while not cutting into neighborhoods.
-According to an article by Ben Plowden there are two main uses for streets: moving and living. Being able to move goods through a city and getting from point A to point B are essential to the economy of every city.
+According to an article by Ben Plowden (https://nextcity.org/daily/entry/problem-urban-street-planning-london-walkability-cars) there are two main uses for streets: moving and living. Being able to move goods through a city and getting from point A to point B are essential to the economy of every city.
 The other major role of streets is to provide a place for civic life to play out. Everything from street performances to enjoying a nice day at a sidewalk cafe are essential goals of city streets.
 According to Plowden the focus on living has been mostly ignored in exchange for moving ever since World War 2. This is only set to get worse as traffice congestion increases
 Proposed solutions to urban planning mostly include city task forces which have developed models classifying the functions and needs of streets. However, a smart city could expand these options by providing the ability to adapt to the 
@@ -25,7 +25,7 @@ Sensors used would include motion sensors to sense where people are gathered as 
 Traffic camera systems can be used to accomplish the same thing with vehicles. Other sensors could attempt to model emotional state of citizens using wearables for pulse and camera systems for facial expression recognition though
 this may not be desirable due to privacy concerns.
 
-Experiments would attempt to learn either a Interactive Dynamic Influence Diagram using structure learning
+Experiments would attempt to learn the parameters for an interactive dynamic influence diagram (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.6492&rep=rep1&type=pdf) and to classify sensor patterns for future predictions and user personalities using bayesian networks (https://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html).
 ## Smart City Street Congestion Model
 
 This model describes three types of agents can be categorized: vehicle agents which can include everything from a smart car to a delivery truck, pedestrians which includes anyone on the sidewalks and leisure agents which can include 
@@ -50,7 +50,7 @@ solution to congestion possibl. This would ideally use structure learning from s
 
 
 ## Smart City Street Congestion Model
-[**Code template**](code/streetcongestion/README.md)
+[**Agent Classes**](code/streetcongestion)
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
