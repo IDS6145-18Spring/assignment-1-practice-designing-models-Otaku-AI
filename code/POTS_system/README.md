@@ -1,15 +1,18 @@
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 
-(Remove: decribe the model here, use whatever diagram you need object, class, etc)
+This model is for an automatic watering system which simulates watering a variety of veggies with different types of soil
+and predetermined watering conditions.
 
-(Remove: The code does run - you should try it. It does not do much, but has a very basic 
-simulation loop in it and key press to take a look at.)
+All vegetables have a variety of attributes for everything from weight to vitaminC needs as well as its size. 
+All vegetables implement their own custom growth and volume calculations.
 
-(Remove: You kill your plants after a key timesteps, but you could always add nuterients
-from compost and add more water and tweak it based on measured constants to simulate
-a real system)
+Each type of soil provides a differing number of nutrients and has a different weight and moisture content.
 
+The container class helps determine how the container affects how nutrients and water are maintained.
 
-Example linked diagram to help you.
-![POTS system](../../images/class_example_diagram.png)
-more decription
+The water class is responsible for determing the effects of rain, evaporation and snow.
+
+![POTS Object](../../images/POTSObject.png)
+
+![POTS Class](../../images/POTSClass.png)
+
