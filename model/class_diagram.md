@@ -1,4 +1,4 @@
-## Smart City (My Problem) Model - Agent Class Diagram
+## Smart City Model - Agent Class Diagram
 
 This shows the class diagram for all the different agents in the system. There are three main categories of agents: vehicle, pedestrain and entertainment.
 
