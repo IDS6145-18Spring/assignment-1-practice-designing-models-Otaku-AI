@@ -2,7 +2,7 @@
 
 This shows the class diagram for all the different agents in the system. There are three main categories of agents: vehicle, pedestrain and entertainment.
 
-![Example Object Diagram](../images/Agent.png)
+![Agent Class Diagram](../images/Agent.png)
 
 Vehicles are divided into personal and business. Vehicles can all receive navigation instructions from the system as well as suggestions for changes to their directions.
 Personal vehicles include any person going about their day to day life including commute to work.
