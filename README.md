@@ -46,11 +46,11 @@ solution to congestion possibl. This would ideally use structure learning from s
 
 ## Smart City Street Congestion Simulation
 
-(remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
+I would use agent based simulation to solve this problem. I would build a virtual model of the city in Unreal Engine and program agent behavior to allow the simulation to play out automatically. This would provide at least some experimental data to train the bayesian networks on. You can read more about my [**simulation plan**](analysis/README.md) by clicking the link
 
 
 ## Smart City Street Congestion Model
-[**Agent Classes**](code/streetcongestion)
+You can find some of the agent classes here: [**Agent Classes**](code/streetcongestion)
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
