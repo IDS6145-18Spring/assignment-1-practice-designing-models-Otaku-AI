@@ -1,4 +1,4 @@
-## Smart City (My Problem) Model - Object Diagram
+## Smart City (Street Congestion) Model - Object Diagram
 
 This is an overview of the system used to manage sidewalk and street congestion on city streets. There are three main coponents: agents, the graphical models used for AI and the various sensors.
 
