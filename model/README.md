@@ -7,7 +7,7 @@
 
 [**Sensor Class Diagram**](sensor_diagram.md) - provides details of each type of sensor.
 
-[**PGM Diagram**](pgm_diagram.md) - provides details of the probabilistic graphical models.
+[**PGM Diagram**](pgm.md) - provides details of the probabilistic graphical models.
 
 [**Behavior Diagram**](behavior_diagram.md) - provides details of how each part of the system interactions with the bayesian inference systems.
 
